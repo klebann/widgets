@@ -1,7 +1,9 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d2ed3559-d43b-4328-b9b3-77c1a5d3eef0/deploy-status)](https://app.netlify.com/sites/my-react-widgets/deploys)
+
 # Deployed at
 
+* https://my-react-widgets.netlify.app/
 * https://widgets-silk-ten.vercel.app/
-* https://main--genuine-bubblegum-38a8a4.netlify.app/
 
 # Getting Started with Create React App
 
