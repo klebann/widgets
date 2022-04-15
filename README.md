@@ -1,7 +1,7 @@
 # Deployed at
 
-https://widgets-silk-ten.vercel.app/
-https://main--genuine-bubblegum-38a8a4.netlify.app/
+* https://widgets-silk-ten.vercel.app/
+* https://main--genuine-bubblegum-38a8a4.netlify.app/
 
 # Getting Started with Create React App
 
